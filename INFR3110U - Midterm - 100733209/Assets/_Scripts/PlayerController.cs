@@ -29,6 +29,9 @@ public class PlayerController : MonoBehaviour
     public GameObject bullet;
     public Transform projectilePos;
 
+    //health 
+    public int health = 100;
+
     // Start is called before the first frame update
     void Start()
     {
