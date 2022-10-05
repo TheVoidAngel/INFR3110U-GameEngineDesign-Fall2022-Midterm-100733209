@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 886
     height: 386
-  m_MinSize: {x: 602, y: 321}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 600, y: 300}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 15}
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 45
+  controlID: 218
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -120,8 +120,8 @@ MonoBehaviour:
     y: 0
     width: 429
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -146,8 +146,8 @@ MonoBehaviour:
     y: 0
     width: 547
     height: 561
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -358,8 +358,8 @@ MonoBehaviour:
     m_SaveData: []
   m_ActionMapsTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a9771342
-    m_LastClickedID: 1108572073
+    m_SelectedIDs: 5557b5a7
+    m_LastClickedID: -1481287851
     m_ExpandedIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -380,8 +380,8 @@ MonoBehaviour:
     m_SearchString: 
   m_ActionsTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f028ca15
-    m_LastClickedID: 365570288
+    m_SelectedIDs: 
+    m_LastClickedID: 0
     m_ExpandedIDs: ede976878cda8497263d6aa65557b5a75c2d69b43c7e09c09f4d28cc9076de0510f45523eb78e939a9771342c7d8ab64
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -478,6 +478,12 @@ MonoBehaviour:
       - itemId: 403810634
         selectedIndex: 0
         scroll: {x: 0, y: 0}
+      - itemId: -491560259
+        selectedIndex: -1
+        scroll: {x: 0, y: 0}
+      - itemId: 1845683271
+        selectedIndex: 0
+        scroll: {x: 0, y: 0}
     m_ManualPathEditMode: 0
   m_ActionAssetManager:
     m_AssetObjectForEditing: {fileID: 0}
@@ -510,22 +516,12 @@ MonoBehaviour:
       \"isComposite\": true,\n                    \"isPartOfComposite\": false\n               
       },\n                {\n                    \"name\": \"up\",\n                   
       \"id\": \"5db9c0b4-33c2-43ff-b82e-cea53abdbebf\",\n                    \"path\":
-      \"<Keyboard>/w\",\n                    \"interactions\": \"\",\n                   
+      \"<Keyboard>/d\",\n                    \"interactions\": \"\",\n                   
       \"processors\": \"\",\n                    \"groups\": \"\",\n                   
       \"action\": \"Move\",\n                    \"isComposite\": false,\n                   
       \"isPartOfComposite\": true\n                },\n                {\n                   
       \"name\": \"down\",\n                    \"id\": \"61c6f61e-9622-4489-9e72-e9abef627c33\",\n                   
-      \"path\": \"<Keyboard>/s\",\n                    \"interactions\": \"\",\n                   
-      \"processors\": \"\",\n                    \"groups\": \"\",\n                   
-      \"action\": \"Move\",\n                    \"isComposite\": false,\n                   
-      \"isPartOfComposite\": true\n                },\n                {\n                   
-      \"name\": \"left\",\n                    \"id\": \"3bb2827b-6342-4688-a177-00684bbd141b\",\n                   
       \"path\": \"<Keyboard>/a\",\n                    \"interactions\": \"\",\n                   
-      \"processors\": \"\",\n                    \"groups\": \"\",\n                   
-      \"action\": \"Move\",\n                    \"isComposite\": false,\n                   
-      \"isPartOfComposite\": true\n                },\n                {\n                   
-      \"name\": \"right\",\n                    \"id\": \"58b8f440-f377-4dc6-9c1b-1216cc3e213d\",\n                   
-      \"path\": \"<Keyboard>/d\",\n                    \"interactions\": \"\",\n                   
       \"processors\": \"\",\n                    \"groups\": \"\",\n                   
       \"action\": \"Move\",\n                    \"isComposite\": false,\n                   
       \"isPartOfComposite\": true\n                },\n                {\n                   
@@ -720,14 +716,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/_Scripts/_Observer
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\Joshua\Documents\GitHub\EngineDesignLab-100733209\NewUnityYear3
+  m_LastProjectPath: C:\Users\Joshua\Documents\GitHub\INFR3110U-GameEngineDesign-Fall2022-Midterm-100733209\INFR3110U
+    - Midterm - 100733209
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 985e0000
-    m_LastClickedID: 24216
-    m_ExpandedIDs: 000000003a5e0000945e000000ca9a3b
+    m_SelectedIDs: 54620000
+    m_LastClickedID: 25172
+    m_ExpandedIDs: 00000000425e00009c5e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -755,7 +752,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003a5e0000
+    m_ExpandedIDs: 00000000425e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -786,18 +783,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c6230000ec800000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: bullet
+      m_OriginalName: bullet
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 45494
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 7}
     m_CreateAssetUtility:
@@ -883,9 +880,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 985e0000
+      m_SelectedIDs: 36180000
       m_LastClickedID: 0
-      m_ExpandedIDs: 30fbffff
+      m_ExpandedIDs: a48cffffd0a9ffff84faffff8cfaffff94faffff9cfaffffbafaffffc2faffffc6faffffcafaffffcefaffff0efbffff12fbffff16fbffff1afbffff1efbffff22fbffff30fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1167,9 +1164,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.3432827, y: 20.139107, z: -5.481452}
+    m_Target: {x: -24.55333, y: 16.366156, z: -54.016247}
     speed: 2
-    m_Value: {x: -0.3432827, y: 20.139107, z: -5.481452}
+    m_Value: {x: -24.55333, y: 16.366156, z: -54.016247}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1215,13 +1212,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.034739207, y: -0.56117237, z: 0.02358307, w: 0.8266368}
+    m_Target: {x: 0.06153405, y: -0.70338035, z: 0.06134811, w: 0.7054934}
     speed: 2
-    m_Value: {x: 0.034739107, y: -0.56117076, z: 0.023583002, w: 0.8266344}
+    m_Value: {x: 0.061533596, y: -0.70337516, z: 0.061347656, w: 0.7054882}
   m_Size:
-    m_Target: 11.378805
+    m_Target: 25.996042
     speed: 2
-    m_Value: 11.378805
+    m_Value: 25.996042
   m_Ortho:
     m_Target: 0
     speed: 2
